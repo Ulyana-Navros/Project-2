@@ -44,7 +44,8 @@
 ### Полный файл с решением:
 
 :arrow_right: <a href="https://github.com/Ulyana-Navros/Project-2/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.zip">Ссылка на проект 2</a>
-:heavy_check_mark:
+
+Кликаем View raw и файл будет скачиваться :heavy_check_mark:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
