@@ -43,7 +43,7 @@
 
 ### Полный файл с решением:
 
-:arrow_right: <a href="https://docs.google.com/spreadsheets/d/1FLmhx4RPJHXm-tiKdBz-anav2UyhkC9j/edit?usp=sharing&ouid=115750602470518827631&rtpof=true&sd=true">Ссылка на проект 2</a>
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-2/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.zip">Ссылка на проект 2</a>
 :heavy_check_mark:
 
 <div id="header" align="center">
